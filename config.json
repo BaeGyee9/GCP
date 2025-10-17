@@ -11,7 +11,7 @@
       "settings": {
         "clients": [
           {
-            "id": "b831381d-6324-4d53-ad4f-8cda48b30811",
+            "id": "704f7bd1-f9e9-4c91-803b-a51e5a601023",
             "flow": ""
           }
         ],
@@ -20,7 +20,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/tg-privatepass",
+          "path": "/khaing",
           "headers": {
             "Host": ""
           }
