@@ -11,7 +11,7 @@
       "settings": {
         "clients": [
           {
-            "id": "704f7bd1-f9e9-4c91-803b-a51e5a601023",
+            "id": "563ec1da-ce95-4f7a-b9b2-7c83d7e1489b",
             "flow": ""
           }
         ],
@@ -20,7 +20,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/khaing",
+          "path": "/မောင်သုည",
           "headers": {
             "Host": ""
           }
